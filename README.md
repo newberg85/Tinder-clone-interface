@@ -18,7 +18,7 @@
 ## overview
 
 ### Screenshot
-![IMG_20220814_182330](https://user-images.githubusercontent.com/80040519/184555541-31d3ff74-67e5-42da-b403-e28544fe0ffb.jpg)
+![IMG_20220815_141608](https://user-images.githubusercontent.com/80040519/184683557-17071173-bdfd-4450-8617-0878b8a90e2b.jpg)
 
 
 
