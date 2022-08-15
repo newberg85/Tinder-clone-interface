@@ -38,7 +38,7 @@
 - Semantica HTML5
 - CSS
 - Flexbox
-
+- Javascript 
 
 
 
